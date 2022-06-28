@@ -3,10 +3,10 @@
 1.  **Open Terminal** Run as administrator
 *   ![](https://github.com/AdamXu23/Python_Pandas/blob/main/Day02_Install_Pandas/Image/Step01_01.jpg)
 ### Step 2
-1.  **Open Terminal** Run as administrator
-2.  Execute “**pip install Jupyter Notebook**“
->       pip install Jupyter Notebook
+1.    Upgrade pip.Execute “**pip install --upgrade pip**“
+>       pip install --upgrade pip
 >       
+*   ![](https://github.com/AdamXu23/Python_Pandas/blob/main/Day02_Install_Pandas/Image/Step02_01.jpg)
 3.  **Wait for the installation to complete**
 *   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_02.jpg)
 ### Step 3
