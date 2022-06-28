@@ -1,7 +1,7 @@
 # Install Pandas
 ### Step 1
 1.  **Open Terminal** Run as administrator
-*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_01.jpg)
+*   ![](https://github.com/AdamXu23/Python_Pandas/blob/main/Day02_Install_Pandas/Image/Step01_01.jpg)
 ### Step 2
 1.  **Open Terminal** Run as administrator
 2.  Execute “**pip install Jupyter Notebook**“
