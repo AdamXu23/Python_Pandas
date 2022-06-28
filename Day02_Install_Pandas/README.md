@@ -7,8 +7,11 @@
 >       pip install --upgrade pip
 >       
 *   ![](https://github.com/AdamXu23/Python_Pandas/blob/main/Day02_Install_Pandas/Image/Step02_01.jpg)
-2.  **Install Pandas**
-*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_02.jpg)
+### Step 3
+1.  **Install Pandas**
+>       pip install -U pandas
+>       
+*   ![](https://github.com/AdamXu23/Python_Pandas/blob/main/Day02_Install_Pandas/Image/Step03_01.jpg)
 ### Step 3
 1.  Open a new Terminal as “**Command Prompt**“
 *   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_03.jpg)
