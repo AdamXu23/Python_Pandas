@@ -14,5 +14,16 @@
 *   ![](https://github.com/AdamXu23/Python_Pandas/blob/main/Day02_Install_Pandas/Image/Step03_01.jpg)
 ### Step 4
 1.  **Test Pandas**
-*   ![](https://github.com/AdamXu23/Python/blob/main/Day01%20Install%20and%20Create%20Project/Install%20Jupyter%20Notebook/Image/Install_Jupyter%20Notebook_03.jpg)
+*   ![](https://github.com/AdamXu23/Python_Pandas/blob/main/Day02_Install_Pandas/Image/Step04_01.jpg)
+2.  **Rename**
+>       Pandas TEST
+>       
+*   ![](https://github.com/AdamXu23/Python_Pandas/blob/main/Day02_Install_Pandas/Image/Step04_02.jpg)
+3.  **Input Program**
+>       import pandas as pd
+>      
 
+>       df = pd.DataFrame({'num_legs': [2, 4], 'num_wings': [2, 0]}, index=['falcon', 'dog'])
+>       df
+>      
+*   ![](https://github.com/AdamXu23/Python_Pandas/blob/main/Day02_Install_Pandas/Image/Step04_03.jpg)
